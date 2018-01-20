@@ -1,5 +1,5 @@
 # UniAlgorithmAPI
-API for C# Application UniAlgorithm
+API for the C# Application UniAlgorithm
 
 /*********************************************/
 - None of this is of your concern except "UniAlgorithm.zip" 
